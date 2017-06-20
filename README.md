@@ -14,7 +14,7 @@ Be honest. Reusing and repurposing your own code is totally acceptable (and high
 
 ## Table of Contents
 
-[Intro to Scrum](./scrum-ceremonies/scrum-intro.pdf)
+[Intro to Scrum](./scrum-ceremonies/Scrum%20Intro.pdf)
 
 ### Scrum Ceremonies
 1. [Planning](./scrum-ceremonies/planning.md)
