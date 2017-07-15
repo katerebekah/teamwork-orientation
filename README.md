@@ -37,7 +37,7 @@ Be honest. Reusing and repurposing your own code is totally acceptable (and high
 
 An additional guide for planning your non-Bangazon Projects
 
-* [Introduction]('./project-planning/README.md)
+* [Introduction]('./project-planning/README.md')
 * [Developing a Project Idea]('./project-planning/developing-idea.md')
 * [User Story Mapping]('./project-planning/user-story-mapping.md')
 * [Writing User Stories]('./project-planning/user-story.md')
