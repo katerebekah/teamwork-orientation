@@ -14,25 +14,32 @@ Be honest. Reusing and repurposing your own code is totally acceptable (and high
 
 ## Table of Contents
 
-[Intro to Scrum](./scrum-ceremonies/Scrum%20Intro.pdf)
+* [Intro to Scrum](./scrum-ceremonies/Scrum%20Intro.pdf)
+* [Intro to User Stories](./project-planning/user-story.md)
+
+### Pre-Sprint Planning
+1. [Team Norms Review](./team-norms/team-norms.md)
+1. [Bangazon Project Planning](./team-norms/project-planning-guidelines.md)
 
 ### Scrum Ceremonies
-1. [Planning](./scrum-ceremonies/planning.md)
-2. [Daily Scrum (stand up)](./scrum-ceremonies/daily-standup.md)
-3. [Retrospective](./scrum-ceremonies/retrospective.md)
-
-Optional Meetings:
-* [Backlog Grooming](./scrum-ceremonies/backlog-grooming.md)
-* [Formal Review](./scrum-ceremonies/review.md)
-* [Team Norms Review](./team-norms/team-norms.md)
-
-### Starting a Project
-* [Planning a project](./starting-project/project-planning.md)
-* [User Story Mapping](./starting-project/user-story-mapping.md)
-* [Writing User Stories](./starting-project/user-story.md)
+1. [Sprint Planning](./scrum-ceremonies/planning.md)
+1. [Daily Scrum (stand up)](./scrum-ceremonies/daily-standup.md)
+1. [Sprint Review](./scrum-ceremonies/review.md)
+1. [Sprint Retrospective](./scrum-ceremonies/retrospective.md)
 
 ### Team Norms
 * [About Team Norms](./team-norms/team-norms.md)
 * [Definition of Done](./team-norms/definition-of-done.md)
 * [Pull Requests](./team-norms/pull-requests.md)
 * [Managers and Mentoring](./team-norms/managers-and-mentoring.md)
+
+### Supplemental Material: Beginning a Project from Scratch
+
+An additional guide for planning your non-Bangazon Projects
+
+* [Introduction]('./project-planning/README.md)
+* [Developing a Project Idea]('./project-planning/developing-idea.md')
+* [User Story Mapping]('./project-planning/user-story-mapping.md')
+* [Writing User Stories]('./project-planning/user-story.md')
+* [Determining Your MVP]('./project-planning/mvp.md')
+* [Backlog Prioritization]('./project-planning/backlog-prioritization.md')

@@ -11,5 +11,3 @@ Divide the board into 5 columns and label them as follows: XS S M L XL. Place a 
 As you finish with your team and see the layout of all your tickets in the scale, what did you notice? Does your team have a lot of large and extra-large tickets or did your tickets remain on the lower range of the scale?
 
 Any tickets labeled XL should be broken up into multiple user stories or tickets. You team should take any tickets labeled large and consider breaking them down as well. Keep in mind one reason tickets seem large is the uncertainty of how to implement them. Discuss with your team and see if you can iron out some of the details, then check again to see if that changes how you rank your ticket in size.
-	
-Click here to Reply or Forward
