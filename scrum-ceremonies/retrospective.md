@@ -20,4 +20,4 @@ Each person will add notes to any of the columns with their personal insights fr
 
 When everyone has finished entering notes, discuss each item as a team.
 
-If your retrospectives aren't productive, try using the [Sailboat Retro Exercise]('./../exercises/sailboat-retro.md') to spur some good discussions.
+If your retrospectives aren't productive, try using the [Sailboat Retro Exercise](./../exercises/sailboat-retro.md) to spur some good discussions.

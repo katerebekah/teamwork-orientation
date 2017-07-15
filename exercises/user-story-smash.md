@@ -1,7 +1,7 @@
 # User Story Smash
 
 ### Instructions
-Take the requirements below and make them into user stories with acceptance criteria. Use the [User Story guide]('./../project-planning/user-story.md') for more information. 
+Take the requirements below and make them into user stories with acceptance criteria. Use the [User Story guide](./../project-planning/user-story.md) for more information. 
 
 1. Only administrators should be able to delete other users.
 
