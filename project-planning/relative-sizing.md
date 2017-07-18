@@ -6,7 +6,21 @@ Sometimes tickets are too large to be completed in one sprint and need to be bro
 
 You'll need a whiteboard or a wall and sticky notes.
 
-Divide the board into 5 columns and label them as follows: XS S M L XL. Place a sticky note for each ticket into the columns according to the team's perceived level of effort. Think of XS as less than a hour, and XL as longer than one sprint. Be sure to compare each ticket/user story with the ones already sorted into columns. There shouldn't be a large discrepancy in level of effort estimates in one column.
+Divide the board into 5 columns and label them as follows: XS S M L XL. Place a sticky note for each ticket into the columns according to the team's perceived level of effort. Be sure to compare each ticket/user story with the ones already sorted into columns. There shouldn't be a large discrepancy in level of effort estimates in one column.
+
+Sometimes it's easier when you relate the sizing to food or animals. You can think up your own comparisons or use these:
+
+* XS - Piece of Cake
+* S - Afternoon Snack
+* M - Lunch
+* L - Five Course Meal
+* XL - All You Can Eat Buffet
+
+* XS - Bumblebee
+* S - Squirrel
+* M - Golden Retriever
+* L - Alpaca
+* XL - Hippo
 
 As you finish with your team and see the layout of all your tickets in the scale, what did you notice? Does your team have a lot of large and extra-large tickets or did your tickets remain on the lower range of the scale?
 
