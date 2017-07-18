@@ -16,6 +16,8 @@ Sometimes it's easier when you relate the sizing to food or animals. You can thi
 * L - Five Course Meal
 * XL - All You Can Eat Buffet
 
+-or-
+
 * XS - Bumblebee
 * S - Squirrel
 * M - Golden Retriever
