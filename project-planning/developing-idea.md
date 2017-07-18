@@ -18,13 +18,13 @@ Know what tech you want to use and what skills you want to showcase as you plan 
 
 What are some of the most popular applications you know of? These apps began with a simple idea to solve a problem.
 
-Facebook - social network for colleges/universities
-Google Search - better search engine
-Lyft - ride sharing
-Instagram - photo sharing
-Snapchat - temporary image sharing
-Airbnb - room/house-space sharing
-Slack - team collaboration
+* Facebook - social network for colleges/universities
+* Google Search - better search engine
+* Lyft - ride sharing
+* Instagram - photo sharing
+* Snapchat - temporary image sharing
+* Airbnb - room/house-space sharing
+* Slack - team collaboration
 
 Consider how software could make an aspect of your life better. Solving a problem is key to finding a project you'll want to code. 
 
