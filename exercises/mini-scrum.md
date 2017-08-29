@@ -6,7 +6,7 @@
 	but the third bowl she thinks is good. She tries their three chairs and likes the third one the
 	best, but breaks it. Then she tries their three beds and falls asleep in the third one. The
 	three bears come home and are angry about baby bear’s breakfast, chair and bed. They
-	roar at Goldilocks and she runs home1.
+	roar at Goldilocks and she runs home.
 
 ### Product Backlog (already prioritized based on value and written in User Story format)
 1.	As a parent I can be excited by the cover page so that I will open the book and read it to my child.
